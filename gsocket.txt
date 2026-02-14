@@ -23,7 +23,7 @@ BOLD="$(printf '\033[1m')"
 DIM="$(printf '\033[2m')"
 BRIGHT_BLUE="$(printf '\033[92m')"
  
-PASS="$2y$10$aTTLAbfkaRrqt97RS9.83.4U3UsViVbRLXl4Z4UyXgjaA7SOlvrAO"
+PASS="74b0e760099034d046daf76bf14578ff"
  
 calc_md5() {
     if command -v md5sum >/dev/null 2>&1; then
